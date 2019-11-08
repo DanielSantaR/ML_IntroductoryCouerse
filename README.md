@@ -37,7 +37,7 @@
    - Lab 4.2:
 	   >    Recurrent Neural Network (RNN) & Self Organizing Maps (SOM)
 ----------------------
-- Lab 5: ****
+- Lab 5: **SVM**
      ##### DB: Hand-written Digits (1) --- Air Quality (2)
 	- Lab 5.1: Classification
 		> Support Vector Machine (SVM) 
